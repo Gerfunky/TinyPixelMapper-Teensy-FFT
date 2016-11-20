@@ -1,2 +1,3 @@
 # TinyPixelMapper-Teensy-FFT
-TinyPixelMapper Teensy code to send FFT data to the ESP8266
+TinyPixelMapper Teensy LC code to send FFT data to the ESP8266
+used for the project  [TinyPixelMapper](https://github.com/Gerfunky/TinyPixelMapper)
